@@ -1,11 +1,11 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "ghost-docs",
-  "title": "ghost-docs",
-  "description": "Search Ghost help, resources, tutorials, and developer docs",
-  "icon": "command-icon.png",
+  "title": "Ghost - Docs Search",
+  "description": "Search Ghost help center, developer docs, tutorials, changelog, and publisher resources",
+  "icon": "icon.png",
   "author": "ryan_feigenbaum",
-  "owner": "tryghost",
+  "owner": "ghst",
   "categories": [
     "Documentation"
   ],
@@ -13,15 +13,19 @@
   "commands": [
     {
       "name": "index",
-      "title": "ghost",
-      "subtitle": "Search ghost docs",
-      "description": "Search Ghost help, resources, tutorials, and developer docs",
+      "title": "Search Docs",
+      "subtitle": "Ghost",
+      "description": "Search Ghost help center, developer docs, tutorials, changelog, and publisher resources",
       "mode": "view"
     }
   ],
   "dependencies": {
     "@raycast/api": "^1.62.1",
-    "@raycast/utils": "^1.4.8"
+    "@raycast/utils": "^1.4.8",
+    "algoliasearch": "^4.20.0",
+    "instantsearch.js": "^4.60.0",
+    "micromark": "^4.0.0",
+    "node-html-markdown": "^1.3.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
