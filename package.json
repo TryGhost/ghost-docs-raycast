@@ -3,7 +3,7 @@
   "name": "ghost-docs",
   "title": "Ghost - Docs Search",
   "description": "Search Ghost help center, developer docs, tutorials, changelog, and publisher resources",
-  "icon": "ghost.png",
+  "icon": "icon.png",
   "author": "ryan_feigenbaum",
   "owner": "ghst",
   "categories": [
@@ -16,8 +16,7 @@
       "title": "Search Docs",
       "subtitle": "Ghost",
       "description": "Search Ghost help center, developer docs, tutorials, changelog, and publisher resources",
-      "mode": "view",
-      "icon": "icon.png"
+      "mode": "view"
     }
   ],
   "dependencies": {

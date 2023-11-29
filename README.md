@@ -2,10 +2,7 @@
 
 Search Ghost help center, developer docs, tutorials, changelog, and publisher resources right from Raycast!
 
-![extension dropdown menu](./media/ghost-docs-1.png)
-
-
-This extension performs a fuzzy search on the content from the sources:
+This extension performs a fuzzy search on content from the sources:
 
 - Help center: https://ghost.org/help/
 - Developer docs: https://ghost.org/docs/
@@ -16,8 +13,6 @@ This extension performs a fuzzy search on the content from the sources:
 ## Configure which resources to search
 
 By default, the extension searches all sources and returns the results organized by section. You can also limit your search to a particular source by picking it from the dropdown menu. Your selection will persist across sessions.
-
-![extension dropdown menu](./media/ghost-docs-2.png)
 
 ## What's Ghost?
 
