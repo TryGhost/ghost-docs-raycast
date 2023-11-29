@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "ghost",
+  "name": "ghost-docs",
   "title": "Ghost - Docs Search",
   "description": "Search Ghost help center, developer docs, tutorials, changelog, and publisher resources",
   "icon": "ghost.png",
