@@ -2,7 +2,7 @@
 
 Search Ghost help center, developer docs, tutorials, changelog, and publisher resources right from Raycast!
 
-![extension dropdown menu](/media/ghost-docs-1.png)
+![extension dropdown menu](ghost-docs-1.png)
 
 
 This extension performs a fuzzy search on the content from the sources:
@@ -17,12 +17,12 @@ This extension performs a fuzzy search on the content from the sources:
 
 By default, the extension searches all sources and returns the results organized by section. You can also limit your search to a particular source by picking it from the dropdown menu. Your selection will persist across sessions.
 
-![extension dropdown menu](/media/ghost-docs-2.png)
+![extension dropdown menu](ghost-docs-2.png)
 
 ## What's Ghost?
 
 Ghost is a powerful app for professional publishers to create, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
 
-[Learn more &rarr;](https://ghost.org)
+[Learn more about Ghost &rarr;](https://ghost.org)
 
 [Ghost is open source. See the code &rarr;](https://github.com/tryghost/)
