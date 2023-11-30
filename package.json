@@ -21,9 +21,6 @@
   "dependencies": {
     "@raycast/api": "^1.62.1",
     "@raycast/utils": "^1.4.8",
-    "algoliasearch": "^4.20.0",
-    "instantsearch.js": "^4.60.0",
-    "micromark": "^4.0.0",
     "node-html-markdown": "^1.3.0"
   },
   "devDependencies": {
