@@ -5,7 +5,6 @@
   "description": "Search Ghost help center, developer docs, tutorials, changelog, and publisher resources",
   "icon": "icon.png",
   "author": "ryan_feigenbaum",
-  "owner": "ghst",
   "categories": [
     "Documentation"
   ],
